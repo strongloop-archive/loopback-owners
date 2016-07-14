@@ -224,7 +224,7 @@ module.exports = [
         owner: ['Gunjan, Richard'],
         backup: ['Candy', 'David'],
         repos: [
-          'strongloop/loopback',
+          'strongloop/loopback/blob/master/lib/server-app.js',
           'strongloop/loopback-example-isomorphic',
           'strongloop/loopback-example-offline-sync',
           'strongloop/loopback-phase',
