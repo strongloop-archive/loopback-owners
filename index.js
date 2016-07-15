@@ -35,7 +35,7 @@ module.exports = [
       },
       {
         name: 'Push notifications',
-        label: 'components-push-notification',
+        label: 'component-push',
         owner: 'Simon',
         backup: ['Amir', 'Gunjan'],
         repos: [
