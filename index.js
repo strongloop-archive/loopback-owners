@@ -284,6 +284,7 @@ module.exports = [
   },
   {
     name: 'Workspace + generators',
+    label: 'workspace-generator',
     owner: ['Candy', 'Janny'],
     backup: 'Richard',
     repos: [
