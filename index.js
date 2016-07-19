@@ -136,7 +136,7 @@ module.exports = [
       {
         name: 'Model definition',
         owner: ['Gunjan', 'Simon'],
-        backup: ['Candy', 'Simon']
+        backup: ['Candy', 'Simon'],
         repos: [
           'strongloop/loopback-model',
           'strongloop/loopback-datasource-juggler/blob/master/lib/' +
