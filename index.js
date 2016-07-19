@@ -126,7 +126,7 @@ module.exports = [
     subgroups: [
       {
         name: 'Composition',
-        owner: 'Richard',
+        owner: ['Richard', 'Amir'],
         backup: 'Simon',
         repos: [
           'strongloop/loopback-datasource-juggler/blob/master/lib/mixins.js',
