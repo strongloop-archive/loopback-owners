@@ -13,7 +13,7 @@ module.exports = [
   },
   {
     name: 'Boot',
-    owner: 'David',
+    owner: ['David','Deepak'],
     backup: ['Candy', 'Gunjan', 'Richard'],
     repos: [
       'strongloop/loopback-boot',
@@ -212,7 +212,7 @@ module.exports = [
       },
       {
         name: 'Registries',
-        owner: 'David',
+        owner: ['David', 'Deepak'],
         backup: ['Gunjan', 'Richard'],
         repos: [
           'strongloop/loopback/blob/master/lib/loopback.js',
@@ -222,7 +222,7 @@ module.exports = [
       },
       {
         name: 'Remoting',
-        owner: ['Gunjan, Richard'],
+        owner: ['Gunjan, Richard', 'Deepak'],
         backup: ['Candy', 'David'],
         repos: [
           'strongloop/loopback/blob/master/lib/server-app.js',
